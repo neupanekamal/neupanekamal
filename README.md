@@ -5,7 +5,7 @@ I am currently studying transcriptional regulation of defense response genes in 
 
 [Useful links](https://github.com/neupanekamal/my-resources/tree/main/Examples)
 
-[Interesting modules](https://github.com/neupanekamal/CM515-course-2024.git)
+[Interesting modules]([https://github.com/neupanekamal/CM515-course-2024.git](https://github.com/neupanekamal/CM515-course-2024/tree/main/modules/15_Github_Portfolio))
 <!--
 **neupanekamal/neupanekamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
